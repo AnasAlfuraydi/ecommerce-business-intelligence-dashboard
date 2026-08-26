@@ -235,7 +235,7 @@ Provides a high-level view of overall business performance through key KPIs, rev
 
 The page is designed to give decision-makers a quick understanding of overall e-commerce performance.
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](Images/executive-overview.png)
 
 ---
 
@@ -253,7 +253,7 @@ The page includes analysis of:
 * Customer satisfaction
 * Product and customer trends
 
-![Product & Customer Performance](images/product-customer-performance.png)
+![Product & Customer Performance](Images/product-customer-performance.png)
 
 ---
 
@@ -289,7 +289,7 @@ The model demonstrates:
 * Cross-filtering
 * Structured business intelligence modeling
 
-![Power BI Data Model](images/powerbi-data-model.png)
+![Power BI Data Model](Images/powerbi-data-model.png)
 
 ---
 
