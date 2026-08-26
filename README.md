@@ -272,7 +272,7 @@ The page includes analysis of:
 * Processing time
 * Operational delay patterns
 
-![Delivery Performance](images/delivery-performance.png)
+![Delivery Performance](Images/delivery-performance.png)
 
 ---
 
